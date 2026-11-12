@@ -1,0 +1,17 @@
+# Model weights
+*.pt
+checkpoints*/
+
+# Datasets
+data/
+
+# Generated results (sample grids, FID logs, Inception stats, training logs)
+outputs/
+*.npz
+*.gz
+
+# Python / Jupyter / IDE
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.idea/

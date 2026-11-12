@@ -1,0 +1,8 @@
+torch>=2.5
+torchvision
+datasets
+pytorch-fid
+scipy
+numpy
+matplotlib
+tqdm
